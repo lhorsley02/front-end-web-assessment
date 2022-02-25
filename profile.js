@@ -17,7 +17,7 @@ function ritualBtn (event) {
 }
 
 colorButton.addEventListener("click", colorBtn)
-
+    
 placeButton.addEventListener("click", placeBtn)
 
 ritualButton.addEventListener("click", ritualBtn)
